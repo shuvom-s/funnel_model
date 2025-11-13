@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# CmdStan build artifacts
+*.hpp
+*.exe
+*.dSYM/
+
+# Python packaging
+*.egg-info/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local environment settings
+.env
+.venv/
+
